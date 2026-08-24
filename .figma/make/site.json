@@ -1,0 +1,10 @@
+{
+  "description": "Provides daily tarot card draws with detailed meanings to offer insights and guidance for users seeking personal reflection and inspiration.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
