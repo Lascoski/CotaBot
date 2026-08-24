@@ -12,7 +12,7 @@ Permite criar alertas de valor e envia uma mensagem pelo **Telegram** quando a c
 
 ## Tecnologias
 
-React, TypeScript, Python, Flask, SQLite, AwesomeAPI e Telegram Bot API.
+Figma, React, TypeScript, Python, Flask, SQLite, AwesomeAPI e Telegram Bot API.
 
 ## Como executar
 
